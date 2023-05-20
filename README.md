@@ -50,7 +50,6 @@ while True:
 ```
 
 OUTPUT :
-
 ![EX-6 IMPLEMENTATION OF PING COMMAND(Client)](https://github.com/kannan0071/EX-6/assets/119641638/4e355729-d405-4186-b8ee-3e4df4726b1a)
 
 ![EX-6 IMPLEMENTATION OF PING COMMAND(Server)](https://github.com/kannan0071/EX-6/assets/119641638/b9679264-b02f-41c4-a43a-f3ead62de861)
