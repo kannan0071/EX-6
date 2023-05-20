@@ -9,15 +9,25 @@ AIM :
 ALGORITHM :
 
 Step 1: start the program.
+
 Step 2: Include necessary package in java.
+
 Step 3: To create a process object p to implement the ping command.
+
 Step 4: declare one Buffered Reader stream class object.
+
 Step 5: Get the details of the server
+
  5:1: length of the IP address.
+ 
  5:2: time required to get the details.
+ 
  5:3: send packets, receive packets and lost packets. 
+ 
  5.4: minimum, maximum and average times.
+ 
 Step 6: print the results. 
+
 Step 7: Stop the program.
 
 PROGRAM :
@@ -50,6 +60,7 @@ while True:
 ```
 
 OUTPUT :
+
 ![EX-6 IMPLEMENTATION OF PING COMMAND(Client)](https://github.com/kannan0071/EX-6/assets/119641638/4e355729-d405-4186-b8ee-3e4df4726b1a)
 
 ![EX-6 IMPLEMENTATION OF PING COMMAND(Server)](https://github.com/kannan0071/EX-6/assets/119641638/b9679264-b02f-41c4-a43a-f3ead62de861)
